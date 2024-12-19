@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_snc_wish_lists.user</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>x_snc_wish_lists.user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-08 02:42:52</sys_created_on>
+        <sys_id>bce1ba2cc3311210dfe9be13e40131e1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_wish_lists.user</sys_name>
+        <sys_package display_value="Wish Lists" source="x_snc_wish_lists">6b51f260c3311210dfe9be13e401316d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish Lists">6b51f260c3311210dfe9be13e401316d</sys_scope>
+        <sys_update_name>sys_user_role_bce1ba2cc3311210dfe9be13e40131e1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-08 02:42:52</sys_updated_on>
+    </sys_user_role>
+</record_update>
